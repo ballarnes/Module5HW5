@@ -1,0 +1,12 @@
+{
+    "placeholder": {
+      "email": "Enter email",
+      "password": "Password",
+      "passwordConfirm": "Password Confirm"
+    },
+    "submit": "Submit",
+    "success": "Success! Your id: {{id}}\nToken: {{token}}",
+    "error": {
+        "passwordMismatch": "Password mismatch!"
+    }
+}
